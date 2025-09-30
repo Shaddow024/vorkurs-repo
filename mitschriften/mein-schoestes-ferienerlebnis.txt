@@ -1,6 +1,6 @@
 # MEIN SCHÖNSTES FERIEN ERLEBNIS IST:
 
 """
-Ich war im HPI-Vorkurs und habe viele tolle neue Leute kennengelernt.
+Ich war im HPI-Vorkurs und habe viele tolle neue Leute kennengelernt. Vor allem der Emil war sehr nett - Anton
 Vor allem haben mir die Übungen besonders gut gefallen, weil sie immer von höchster Güteklasse einfallsreich waren. :)))
 """
